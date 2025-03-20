@@ -1,0 +1,23 @@
+.container1{
+  height: 300px;
+  width: 236px;
+  border: 3px solid silver;
+  border-radius: 10px;
+  background-color: rgb(2, 48, 54);
+}
+#display{
+  height: 22px;
+  width: 190px;
+  border: 3px solid silver;
+  border-radius: 5px;
+  margin: 20px;
+}
+.button{
+  height: 40px;
+  width: 45px;
+  border: 3px solid silver;
+  border-radius: 5px;
+  display: inline-block;
+  flex-wrap: wrap;
+  margin:5px;
+}
